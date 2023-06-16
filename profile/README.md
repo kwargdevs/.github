@@ -8,9 +8,9 @@ At Kwarg Devs, we believe that technology has the potential to transform industr
 
 ## Our Projects
 
-### Project 1: [Project Name]
+### Project 1: Social Justice Mission
 
-[Project Name] is an exciting project aimed at solving [describe the problem or purpose]. We are leveraging the latest technologies, such as [mention relevant technologies or frameworks], to create a robust and user-friendly solution. You can find more information and contribute to this project by visiting the project repository: [Link to the repository].
+"Social-Justice" is a platform dedicated to promoting and supporting social justice causes. The project aims to create awareness, facilitate discussions, and provide resources related to various areas of social justice. The platform aims to give a helping hand to those in need and create positive change in society.
 
 ### Project 2: MannuelPortraits
 
