@@ -12,9 +12,9 @@ At Kwarg Devs, we believe that technology has the potential to transform industr
 
 [Project Name] is an exciting project aimed at solving [describe the problem or purpose]. We are leveraging the latest technologies, such as [mention relevant technologies or frameworks], to create a robust and user-friendly solution. You can find more information and contribute to this project by visiting the project repository: [Link to the repository].
 
-### Project 2: [Project Name]
+### Project 2: MannuelPortraits
 
-[Project Name] focuses on [describe the problem or purpose]. With a team of talented developers, we are working diligently to build an efficient and scalable solution. This project utilizes [mention relevant technologies or frameworks] to deliver a high-quality software product. To explore further and contribute to this project, head over to the repository: [Link to the repository].
+"MannuelPortraits" is a photographer's portfolio website designed to showcase the captivating work of a talented photographer named Mannuel. The website aims to provide a visually appealing and user-friendly platform for visitors to explore and appreciate Mannuel's artistic prowess in portrait photography.
 
 ## Get Involved
 
