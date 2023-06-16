@@ -10,7 +10,7 @@ At Kwarg Devs, we believe that technology has the potential to transform industr
 
 ### Project 1: Social Justice Mission
 
-[Social-Justice](https://sj-mission.org/) is a platform dedicated to promoting and supporting social justice causes. The project aims to create awareness, facilitate discussions, and provide resources related to various areas of social justice. The platform aims to give a helping hand to those in need and create positive change in society.
+[Social Justice Mission](https://sj-mission.org/) is a platform dedicated to promoting and supporting social justice causes. The project aims to create awareness, facilitate discussions, and provide resources related to various areas of social justice. The platform aims to give a helping hand to those in need and create positive change in society.
 
 ### Project 2: MannuelPortraits
 
