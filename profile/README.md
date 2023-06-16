@@ -32,11 +32,12 @@ We value diverse perspectives and appreciate the efforts of every individual who
 To stay up to date with our latest projects, announcements, and releases, be sure to:
 
 - Follow us on Twitter: [@KwargDevs](https://twitter.com/KwargDevs)
-- Visit our website: [www.kwargdevs.com](http://www.kwargdevs.com)
-- Subscribe to our newsletter: [newsletter@kwargdevs.com](mailto:kwargdevs@gmail.com)
+<!--- Visit our website: [www.kwargdevs.com](http://www.kwargdevs.com)
+-->
+- Subscribe to our YouTube Channel: [KwargDevs](https://www.youtube.com/channel/UCdMBvHugZtN_FZ6oh8L5BHA)
 
 We are excited to have you join us on this journey of innovation and software development excellence!
 
 Happy coding!
 
-The Kwarg Devs Team
+The KwargDevs Team
